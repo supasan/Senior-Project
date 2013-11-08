@@ -1,0 +1,7 @@
+[Supply Chain Nodes],,,,,,,
+[Header],nodeName,nodeType,latitude,longitude,cityName,CountryName,Description
+500,Sakon Nakhon,Supplier,17.19852,104.12842,Sakon Nakhon,Thailand,Sakon Nakhon:Thailand
+501,Ayutthaya,Supplier,14.35324,100.56897,Ayutthaya,Thailand,Ayutthaya:Thailand
+503,Krabi,Distribution Centre,8.08608,98.90279,Krabi,Thailand,Krabi:Thailand
+504,Odisha,Manufacturing Plant,20.95167,85.09852,Odisha,India,Odisha:India
+505,Sambas,Manufacturing Plant,1.36133,109.31,Sambas,Indonesia,Sambas:Indonesia
